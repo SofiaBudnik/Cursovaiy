@@ -1,0 +1,57 @@
+﻿  Source.cpp
+A:\курсач\Mario\Mario\Source.cpp(46,1): warning C4305: =: усечение из "double" в "float"
+A:\курсач\Mario\Mario\Source.cpp(58,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+A:\курсач\Mario\Mario\Source.cpp(64,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+A:\курсач\Mario\Mario\Source.cpp(81,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(82,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(92,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(100,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(127,23): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(127,20): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(129,1): warning C4305: =: усечение из "double" в "float"
+A:\курсач\Mario\Mario\Source.cpp(141,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+A:\курсач\Mario\Mario\Source.cpp(156,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(157,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(166,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\курсач\Mario\Mario\Source.cpp(204,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+A:\курсач\Mario\Mario\Source.cpp(219,65): warning C4305: =: усечение из "double" в "float"
+A:\курсач\Mario\Mario\Source.cpp(221,65): warning C4305: =: усечение из "double" в "float"
+A:\курсач\Mario\Mario\Source.cpp(223,83): warning C4305: =: усечение из "double" в "float"
+A:\курсач\Mario\Mario\Source.cpp(234,54): warning C4305: =: усечение из "double" в "float"
+  Mario.vcxproj -> A:\курсач\Mario\x64\Debug\Mario.exe
